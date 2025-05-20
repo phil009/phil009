@@ -4,11 +4,11 @@ Hi 👋 My name is Philip Ogboh
 Software Engineer(Frontend)
 ---------------------------
 
-I've been a frontend developer for a few years, developing my skills through hands-on projects and learning from real-world challenges. I have experience in creating dynamic web applications, focusing on clean and efficient code. My work is driven by a passion for building seamless user experiences and visually appealing designs. I’m committed to continuous learning, improving my expertise in modern web technologies, and exploring new frameworks to stay ahead in the tech world.
+Fullstack Engineer driven by passion and commitment in building responsive and robust applications using Javascript, TypeScript, React, Next.js, Node.js, Express and Tailwind CSS. Passionate about delivering high-quality solutions and continuously exploring new technologies.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [philipogboh60@gmail.com](mailto:philipogboh60@gmail.com)
-* 🧠  I'm learning MERN stack development
+* 🧠  I'm learning mobile development
 * 🤝  I'm open to collaborating on real world and/or interesting projects
 * ⚡  Huge anime fan
 
